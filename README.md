@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyup</h1>
-<h3 align="center">I'm working on Android application development and Cyber security. I'm sharing my projects and exercises. I'm currently learning Dart and Javascript.</h3>
+<h3 align="center">I'm working on Android application development and Cyber security. I'm sharing my projects and exercises. I'm currently learning Dart and Flutter.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
